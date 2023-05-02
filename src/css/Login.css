@@ -1,0 +1,14 @@
+#loginandup-container{
+  width: 30%;
+  margin: 8.5rem auto;
+  text-align: center;
+  }
+  .head{
+    padding-bottom: 25px;
+    color: antiquewhite;
+    text-shadow: 
+         0.1px 0px 0px #1e2f45,   /* Right shadow */
+         -0.1px 0px 0px #1e2f45,  /* Left shadow */
+         0px 0.1px 0px #1e2f45,   /* Bottom shadow */
+         0px -0.1px 0px #1e2f45;  /* Top shadow */
+  }

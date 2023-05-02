@@ -1,0 +1,18 @@
+.image{
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+}
+#alrt{
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+#add-button{
+  margin: 10px;
+  float: right;
+}
+#table-text{
+  padding-bottom: 30px!important;
+}
