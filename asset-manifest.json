@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Meds_Project_Front-End/static/css/main.382cc540.css",
+    "main.js": "/Meds_Project_Front-End/static/js/main.25b0a101.js",
+    "static/media/—Pngtree—abstract fluid gradient background with_1199248.jpg": "/Meds_Project_Front-End/static/media/—Pngtree—abstract fluid gradient background with_1199248.8eee9484f4bdfd6875d5.jpg",
+    "index.html": "/Meds_Project_Front-End/index.html",
+    "main.382cc540.css.map": "/Meds_Project_Front-End/static/css/main.382cc540.css.map",
+    "main.25b0a101.js.map": "/Meds_Project_Front-End/static/js/main.25b0a101.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382cc540.css",
+    "static/js/main.25b0a101.js"
+  ]
+}
